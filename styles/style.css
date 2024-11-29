@@ -1,6 +1,7 @@
 body {
   padding: 0;
   text-align: center;
+  margin: 0;
 }
 
 #game-intro {
@@ -43,7 +44,7 @@ body {
 
 .game-intro p {
   font-size: 18px;
-  font-family: "Verdana";
+  font-family: 'Verdana';
 }
 
 .logo-img {
